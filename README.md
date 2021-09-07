@@ -1,3 +1,12 @@
+## React Diagram
+
+![social media react page diagram](/social_media_clone_diagram.png)
+
+Contributed By:
+
+- Adrian Camacho
+- Dave Lindqvist
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
