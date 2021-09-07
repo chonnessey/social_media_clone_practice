@@ -1,20 +1,22 @@
 import React from "react";
 import ProfileHeader from "./ProfileHeader"
 import ProfileBody from "./ProfileBody"
-import Tweets from "./Tweets"
-import Friends from "./Friends"
+import TweetsEntry from "./TweetsEntry"
+import TweetsList from "./TweetsList"
+import FriendsList from "./FriendsList"
 
 function Body() {
   return (
     <React.Fragment>
       <table>
         <tr>
-          <ProfileHeader />
-          <Tweets />
-          <Friends />
+          <th><ProfileHeader /></th>
+          <th><TweetsEntry /></th>
+          <th>Friends<FriendsList /></th>
         </tr>
         <tr>
-          <ProfileBody />
+          <td><ProfileBody /></td>
+          <td><TweetsList /></td>
         </tr>
       </table>
     </React.Fragment>
