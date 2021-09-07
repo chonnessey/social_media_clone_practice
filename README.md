@@ -2,10 +2,18 @@
 
 ![social media react page diagram](/social_media_clone_diagram.png)
 
+---
+
+## React Page
+
+![react page](/social_media_clone_screenshot.png)
+
 Contributed By:
 
 - Adrian Camacho
 - Dave Lindqvist
+
+sup dude!
 
 <!-- # Getting Started with Create React App
 
